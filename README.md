@@ -1,7 +1,6 @@
 # Convolutions-in-Keras
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-
 ### Building a convolutional neural network to classify traffic sign images using Keras
 
 #### Implementing Pooling, Testing and Dropout in Keras
